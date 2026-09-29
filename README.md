@@ -8,35 +8,15 @@ The projects demonstrate fundamental concepts of cybersecurity, including passwo
 
 📌 Projects
 
-No.
+No.                    Project                              Technology
 
-Project
+1               Password Strength Analyzer                    Python
 
-Technology
+2          Data Encryption and Decryption Tool          Python, Cryptography
 
-1
+3          Phishing Email Awareness Simulator                  Python
 
-Password Strength Analyzer
-
-Python
-
-2
-
-Data Encryption and Decryption Tool
-
-Python, Cryptography
-
-3
-
-Phishing Email Awareness Simulator
-
-Python
-
-4
-
-Simple Vulnerability / Port Scanner
-
-Python, Socket
+4          Simple Vulnerability / Port Scanner             Python, Socket
 
 🔑 1. Password Strength Analyzer
 
@@ -86,9 +66,8 @@ python password_analyzer.py
 
 📊 Example
 
-===================================
+
      PASSWORD STRENGTH ANALYZER
-===================================
 
 Enter your password: MyPassword@123
 
@@ -277,9 +256,9 @@ The user selects an answer and receives an explanation.
 
 📊 Example
 
-============================================================
+
 EMAIL
-============================================================
+
 
 From: security@example.invalid
 
@@ -417,9 +396,7 @@ Port          Service
 
 📊 Example Output
 
-=======================================================
              SIMPLE PORT SCANNER
-=======================================================
 
 Target: 127.0.0.1
 
@@ -430,9 +407,9 @@ Scanning common ports...
 [OPEN]   Port 80    - HTTP
 [CLOSED] Port 443   - HTTPS
 
-=======================================================
+
                  SCAN REPORT
-=======================================================
+
 
 Target: 127.0.0.1
 Open ports: 1
