@@ -8,16 +8,14 @@ The projects demonstrate fundamental concepts of cybersecurity, including passwo
 
 📌 Projects
 
-No.                    Project                              Technology
+| No. | Project | Technology |
+|-----|---------|------------|
+| 1 | Password Strength Analyzer | Python |
+| 2 | Data Encryption and Decryption Tool | Python, Cryptography |
+| 3 | Phishing Email Awareness Simulator | Python |
+| 4 | Simple Vulnerability / Port Scanner | Python, Socket |
 
-1               Password Strength Analyzer                    Python
-
-2          Data Encryption and Decryption Tool          Python, Cryptography
-
-3          Phishing Email Awareness Simulator                  Python
-
-4          Simple Vulnerability / Port Scanner             Python, Socket
-
+---
 🔑 1. Password Strength Analyzer
 
 📖 Description
